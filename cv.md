@@ -18,6 +18,12 @@ Focus on details
 Perfectionism that prevents me from living in peace
 Team Player
 
+## My weaknesses:
+
+Lack of time
+Excessive directness
+Increased anxiety
+
 ## Skills
 
 HTML
